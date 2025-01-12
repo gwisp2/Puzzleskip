@@ -1,5 +1,7 @@
 # Puzzleskip
 
+## WARNING: this mod crashes a game on some types of puzzles, even it you don't skip them. Puzzle types from the base game are ok. Puzzles with the rotation of circles with symbols definitely crash the game with this mod.
+
 **Puzzleskip** is a mod that allows players to skip puzzles in the Mansions of Madness: Second Edition application. Currently, only the Windows version of the application is supported.
 
 ## How to Install
