@@ -1,6 +1,8 @@
-# Puzzleskip
+# DEPRECATED
+The newer mod [CultistToolbox](https://github.com/gwisp2/CultistToolbox) contains ability to skip puzzles.
 
-## WARNING: this mod crashes a game on some types of puzzles, even it you don't skip them. Puzzle types from the base game are ok. Puzzles with the rotation of circles with symbols definitely crash the game with this mod.
+# Puzzleskip
+## ⚠️⚠️⚠️ WARNING: this mod crashes a game on some types of puzzles, even it you don't skip them. Puzzle types from the base game are ok. Puzzles with the rotation of circles with symbols definitely crash the game with this mod. Use a newer mod referenced above.
 
 **Puzzleskip** is a mod that allows players to skip puzzles in the Mansions of Madness: Second Edition application. Currently, only the Windows version of the application is supported.
 
